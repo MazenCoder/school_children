@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768806242194",
+    "firebase_url": "https://school-app-1d8ab.firebaseio.com",
+    "project_id": "school-app-1d8ab",
+    "storage_bucket": "school-app-1d8ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768806242194:android:43a227034a2576a6",
+        "android_client_info": {
+          "package_name": "com.mobidroid.schoolchildren"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768806242194-ks8mefqtvpmic6ccq4utquotjo964sht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobidroid.schoolchildren",
+            "certificate_hash": "28c8ace7fca6d75444e932382c6a5ddb8ae7a22c"
+          }
+        },
+        {
+          "client_id": "768806242194-nfm82i1hpnha7iepbme0bce37al65ceh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGuwt86WWH5KSlll3v442p9S5nyg_hVBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768806242194-nfm82i1hpnha7iepbme0bce37al65ceh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
